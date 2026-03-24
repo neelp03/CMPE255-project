@@ -1,0 +1,1 @@
+to launch jupyetr = ".venv/bin/jupyter notebook"
